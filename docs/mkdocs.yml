@@ -83,6 +83,7 @@ nav:
       - RisingWave: risingwave.md
       - Snowflake: https://docs.snowflake.com/en/user-guide/tables-iceberg
       - Starrocks: https://docs.starrocks.io/en-us/latest/data_source/catalog/iceberg_catalog
+      - Streamkap: https://docs.streamkap.com/docs/iceberg#/
       - Tinybird: https://www.tinybird.co/docs/forward/get-data-in/table-functions/iceberg
       - Trino: https://trino.io/docs/current/connector/iceberg.html
   - Catalogs:
